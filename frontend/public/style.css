@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#carousel {
+    max-height: 500px;
+}
+
+.mt-4_5 {
+    margin-top: 4.5rem !important;
+}
+
+.form-control {
+    font-weight: 600 !important;
+}
+
+.card img {
+    width: 286px !important;
+    height: 191px !important;
+}
+
+.wrappingText {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
